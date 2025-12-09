@@ -10,5 +10,5 @@
    ### Se adjunta el Informe
    [[Infome Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION COMPARTIDA DEL ARCHIVO)]
    ### Presentaciones armadas
-   [[Presentaciones sobre Precios comparados y Recomendaciones]( AQUI VA LA DIRECCION PRESENTACIONES REALIZADAS)]
-https://gamma.app/docs/Navidad-en-Posadas-Compras-Inteligentes-y-Tradicion-7i1csdm01dkbaj1?mode=doc
+   [[Presentaciones sobre Precios comparados y Recomendaciones]
+   https://gamma.app/docs/Navidad-en-Posadas-Compras-Inteligentes-y-Tradicion-7i1csdm01dkbaj1?mode=doc
